@@ -18,3 +18,6 @@ This repository contains a Power BI dashboard project exploring educational outc
 
 The dataset (`Global_Education.csv`) contains global data on educational outcomes and literacy rates.
 
+## Dashboard
+
+![Dashboard](./misc/dashboard.png)
